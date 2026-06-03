@@ -25,6 +25,7 @@ I also speak Spanish and Chinese, and I’m always looking for ways to learn, gr
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Recent Projects
+* [AIToday](https://github.com/madalynkeyes/Tech-News-Gatherer)
 * [Chess Server](https://github.com/madalynkeyes/chess)
 * Python Interpreter
 * Bomb & Attack Projects
