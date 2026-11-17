@@ -29,12 +29,10 @@ I also speak Spanish and Chinese, and I’m always looking for ways to learn, gr
 
 ## Recent Projects
 * [AIToday](https://github.com/madalynkeyes/Tech-News-Gatherer)
-* [Chess Server](https://github.com/madalynkeyes/chess)
-* [Commute](https://github.com/madalynkeyes/MA-Commute-Traffic)
+* [Eagle Mountain to Provo Commute Pipeline](https://github.com/madalynkeyes/MA-Commute-Traffic)
 * [Conference RAG](https://github.com/madalynkeyes/conference-rag)
+* [Chess Server](https://github.com/madalynkeyes/chess)
 * [AI_SQL](https://github.com/madalynkeyes/AI_SQL_Project)
-* Python Interpreter
-* Bomb & Attack Projects
 * [Graphic Design Portfolio](https://sites.google.com/view/madalynkeyes-graphicportfolio)
 
 ## Connect With me
