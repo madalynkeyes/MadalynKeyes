@@ -1,7 +1,7 @@
 ## Hi there!
 I’m a software engineering student at BYU, and this is a collection of some of my projects.
 
-I enjoy building things that are actually useful and figuring out how things work behind the scenes. Most of what I’ve learned comes from hands-on experience—whether that’s coding, fixing tech, or just trying something new and sticking with it.
+I enjoy building things that are actually useful and figuring out how things work behind the scenes. Most of what I’ve learned comes from hands-on experience—whether that’s coding, fixing technical problems, or learning by doing.
 
 A few of my hobbies are piano, snowboarding, horseback riding, and graphic design.
 
@@ -30,6 +30,9 @@ I also speak Spanish and Chinese, and I’m always looking for ways to learn, gr
 ## Recent Projects
 * [AIToday](https://github.com/madalynkeyes/Tech-News-Gatherer)
 * [Chess Server](https://github.com/madalynkeyes/chess)
+* [Commute](https://github.com/madalynkeyes/MA-Commute-Traffic)
+* [Conference RAG](https://github.com/madalynkeyes/conference-rag)
+* [AI_SQL](https://github.com/madalynkeyes/AI_SQL_Project)
 * Python Interpreter
 * Bomb & Attack Projects
 * [Graphic Design Portfolio](https://sites.google.com/view/madalynkeyes-graphicportfolio)
